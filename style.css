@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
@@ -1189,7 +1188,6 @@ p, .feature-card p, .step p, .about-content p {
     color: #fff !important;
     transform: translateY(-2px) scale(1.04);
     box-shadow: 0 8px 24px rgba(10,102,194,0.18);
-=======
 :root {
     --primary-blue: #0047AB;
     --primary-green: #00A550;
@@ -1882,5 +1880,4 @@ footer {
         width: 35px;
         height: 35px;
     }
->>>>>>> a0f66d13b8a64cb3c51c23610cfdf4e3553d7453
 }
